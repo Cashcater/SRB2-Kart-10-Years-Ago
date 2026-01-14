@@ -7,6 +7,8 @@ Well, Its hard and easy. This is bassicly building the SRB2 2.1 Source.
 
 You might need older versions of Windows to build this.
 
+NOTE: For some reason, the next change is taking longer than usual. Please do not build the source code right now, nothing will happen if you do.
+
 Win32 with Visual C (6SP6+Processor Pack OR 7)
 ~~~
 
